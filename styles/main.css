@@ -1,0 +1,10 @@
+.shop {
+  flex-basis: 16%;
+  border: 1px dotted;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
